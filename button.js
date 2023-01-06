@@ -1,3 +1,3 @@
 function button() {
-    return "button"
+    return "Click Me"
 }
